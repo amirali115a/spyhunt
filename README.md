@@ -1,5 +1,5 @@
 
-# DESCRIPTION
+# DESCRIPTION ⌖
 
 ![Spyhunt](https://github.com/gotr00t0day/spyhunt/blob/main/spyhunt_logo_cropped.png)
 
@@ -57,7 +57,8 @@ Spyhunt is comprehensive network scanning and vulnerability assessment tool. Thi
 
 8. The script includes a CIDR notation scanner for port scanning across IP ranges.
 
-# INSTALLATION
+
+## 🔧 **Installation**
 
 ```bash
 
@@ -71,7 +72,7 @@ sudo python3 install.py
 
 ```
 
-# USAGE 
+# 💥 Usage
 
 ```
 
@@ -227,7 +228,7 @@ Port Scanning:
 ```
 
 
-# EXAMPLE
+# 🕵🏻‍♂️ EXAMPLE
 
 Scan for subdomains and save the output to a file.
 ```
@@ -385,3 +386,5 @@ Nuclei Scan
 ```
 python3 spyhunt.py --nuclei domain.com --nuclei-template nuclei-templates/cves/CVE-2024-22208.yaml
 ```
+## ⚠️ **Disclaimer**
+ This tool is designed for educational and ethical hacking purposes only. By using this tool, you confirm that you have obtained explicit permission from the target organization to conduct reconnaissance. The developers of this tool are not responsible for any misuse or illegal activities that may arise from its use. Use at your own risk
